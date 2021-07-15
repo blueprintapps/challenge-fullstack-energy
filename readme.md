@@ -69,20 +69,22 @@ Please just show us all you can do in 5-6hrs at the best of your capabilities.
 ### Frontend
 
 - Create a public home page that can be accessed by any user and allows them to calculate the best provider based on the amount of Kw they type in a input field.
-![myenergy-home](https://user-images.githubusercontent.com/11819325/125870503-51b4675d-70d0-4401-a93a-c0512ebb7411.png)
 
+![myenergy-home](https://user-images.githubusercontent.com/11819325/125870503-51b4675d-70d0-4401-a93a-c0512ebb7411.png)
 
 - Create a public login/signup page that moves onto a private Dashboard area, which cannot be accessed without being logged in. 
 NOTE : Once the users have succesfully logged in, they should be redirected to their private dashboard automatically.
 If they close the window and open it again, they should remain authenticated for 30minutes.
 If multiple windows/tabs are open, when the user log in/out they should log in/out in the other window as well.
+
 ![myenergy-auth](https://user-images.githubusercontent.com/11819325/125870518-fb875c1f-2794-4fa6-8c9e-0ab46c6eac04.png)
 
-
 - Create a dashboard/readings page that allows the registered users to create a new electricity reading or read, update and delete the existing ones.
+
 ![myenergy-dashboard-readings](https://user-images.githubusercontent.com/11819325/125870530-d48eb34d-e16f-43fd-8e93-0fccd9877a6b.png)
 
 - Create a dashboard/estimation page that allows the registered users to see the total amount of energy consumed in the last month, the expected cost as well as the amount they'd pay with other providers.
+
 ![myenergy-dashboard-estimations](https://user-images.githubusercontent.com/11819325/125870651-1c5d186e-7ebf-4b5c-a633-a5c7511f44c5.png)
 
 
